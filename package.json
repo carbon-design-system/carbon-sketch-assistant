@@ -8,7 +8,7 @@
   "sketch-assistant": {
     "title": "Carbon Design System",
     "description": "Keeps your document in line with Carbon Design System Sketch rules",
-    "icon": "https://github.com/carbon-design-system/carbon-sketch-assistant/icon.png"
+    "icon": "https://github.com/carbon-design-system/carbon-sketch-assistant/public/icon.png"
   },
   "author": {
     "name": "IBM"
