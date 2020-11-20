@@ -1,8 +1,10 @@
 # Carbon Sketch assistant
 ### Add it to Sketch
 * [Download Carbon Sketch Assistant](https://carbon-design-system.github.io/carbon-sketch-assistant/public/carbon-design-system.tgz)
-* Open Assistants window in Sketch, then click > Cogwheel icon > Manage assistants… > Cogwheel icon > Add from url… > select the file you downloaded above   
-* Or add `sketch://add-assistant?url=` in front of the link above and run it in your browser (it will open Sketch and add the assistant automatically).
+* Open Assistants window in Sketch, then click > Cogwheel icon > Manage assistants… > Cogwheel icon > Add from url… > select the file you downloaded above
+
+Or
+* Copy and paste this link `sketch://add-assistant?url=https://carbon-design-system.github.io/carbon-sketch-assistant/public/carbon-design-system.tgz` into a new browser tab (it will open Sketch and add the assistant automatically).
 
 ### artboards-grid
 Any artboard without a grid setting, or with a grid setting not present in the list, results in a violation.
